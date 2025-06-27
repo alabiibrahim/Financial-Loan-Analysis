@@ -40,6 +40,9 @@ The goal is to analyze the dataset to gain insights into the effectiveness of pi
 11.	Identify the least performing pizzas that generated the least revenue?
 12.	Find the pizza with the second highest quantity sold.
 
+##Dataset
+![Data]()
+
 ## Data source
 Here are the Data needed to achieve project goal
 
@@ -59,7 +62,7 @@ Here are the Data needed to achieve project goal
 
 | Tools | Purpose | 
 | --- | --- | 
-| SQL  |  Cleaning, Transformation. |
+| SQL  |  Cleaning, Standardization. |
 | Excel | Processing, Visualizations. | 
 
 ## Dashboard design
@@ -77,13 +80,13 @@ Here is a list of appropriate chart visuals used answering key questions.
 ![Dasboard design](images/Financial%20Loan.PNG)
 
 
-# Development
+## Development
 
 Here’s a step by step guide on how the data was approached 
 
 1.	Getting the data
 2.	Load and clean data with SQL queries
-3.	Retrieve data from SQL database into Excel
+3.	Transfer data from SQL database into Excel
 4.	Processing and Visualizations using Excel
 5.	Generate Insights
 6.	Give recommendations 
@@ -97,7 +100,23 @@ The goal is to refine the dataset to ensure its clean and ready for analysis.
 - No column should contain null values, indicating complete data for all records
 
 ## SQL Cleaning
-![SQL Qery]()
+
+![SQL Qery](SQLimages/001.PNG)
+
+![SQL Qery](SQLimages/002.PNG)
+
+![SQL Qery](SQLimages/003.PNG)
+
+![SQL Qery](SQLimages/004.PNG)
+
+![SQL Qery](SQLimages/005.PNG)
+
+![SQL Qery](SQLimages/006.PNG)
+
+![SQL Qery](SQLimages/007.PNG)
+
+![SQL Qery](SQLimages/008.PNG)
+
 
 ## Excel Processing 
 
@@ -116,6 +135,8 @@ The goal is to refine the dataset to ensure its clean and ready for analysis.
 ![Excel Process](images/007.PNG)
 
 ![Excel Process](images/008.PNG)
+
+![Excel Process](images/009.PNG)
 
 
 ## Findings
