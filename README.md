@@ -149,31 +149,41 @@ The goal is to refine the dataset to ensure its clean and ready for analysis.
 
 ## Findings
 
-1.	Classic pizza outshines every other pizzas with the highest order and revenue. Supreme made the second spot, while chicken and veggie have a slight difference between them.
+1.	With 38.6K total applications but only £435.8M funded versus £473.1M received, indicating potential liquidity or risk management challenges.
 
-2.	Pizza with the “L” size performs significantly higher than other size whilst pizza with the “xxl” size performs very low compare to others.
+2.  DTI at 13% appears manageable, but the significant gap between funded and received amounts suggests funding capacity limitation.
 
-3.	The month of February & December generated low revenue but September & October are lowest in both revenue and quantity sold.
+3.  Interest rate seems unusually low with 12%, which may be impacting profitability margins.
 
-4.	Pizzas are mostly ordered by weekends than midweek and at dinner, lunch and evening with dinner topping the list.
+4.  The loan distribution by region shows heavy concentration in specific areas, creating potential risk if those regions experience economic downturns.
 
+5.  Varying loan performance across different employment tenure groups, with some segments showing higher risk profiles that need targeted strategies.
 
-5.	Classic deluxe performs best, with Barbecue chicken, Hawaii pizza, Pepperoni pizza and Thai chicken having slight or no difference between them. 
-
-6.	Soppresata, Spinach, Calabrese, Mediterranean and Brie-carrie pizza performs the lowest.
+6.  The breakdown reveals significant concentration in certain loan categories (debt consolidation, major purchases), suggesting need for product diversification.
 
 
 ## Recommendations
 
-1.	Increase in production of Pizza with “L” size should be made priority as it performs the best.
+1.	Review funding capacity constraints that are limiting loan disbursements.
 
-2.	Pizzas categories are doing well but the strategy used for the Classic pizza can be applied to others in the same category as there’s slight difference between them.
+2.  Analyze the pricing strategy given the low average interest rate.
 
-3.	Increase in production should be prioritize by mid-year starting from March-August and towards ending and new year (November-January). As sales seems to skyrocket at midyear.
+3.  Implement geographic diversification strategies to reduce concentration risk.
 
-4.	Plan for the increase in weekends pizza production than midweek.
+4.  Develop targeted underwriting criteria for different employment length segments.
 
-5.	Least selling pizza production needs to be halted and invest more on top performing ones. 
+5.  Create product offerings for underrepresented loan purposes.
+
+6.  Establish monthly trending analysis to identify seasonal patterns and optimize timing.
+
+
+## Action plan
+
+1.  Target the mortgage and other loan categories that appear underrepresented.
+
+2.  Develop specialized products for different employment tenure groups.
+
+3.  Leverage the strong performance in certain regions for expansion.
 
 
 
