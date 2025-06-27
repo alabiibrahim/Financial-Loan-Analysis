@@ -1,9 +1,7 @@
 # Financial Loan Analysis
 
 
-![Dasboard design](assets/images/Pizza%20sales%20gif%20.gif)
-
-![Dasboard design](assets/images/Pizza%20sales%202gif%20.gif)
+![Dasboard design](images/financialloanGIF.gif)
 
 
 # Table of Contents
@@ -76,9 +74,8 @@ Here is a list of appropriate chart visuals used answering key questions.
 7.	Bar chart
 8.	Slicers
 
-![Dasboard design](assets/images/Pizza%20report%201.PNG)
+![Dasboard design](images/Financial%20Loan.PNG)
 
-![Dashboard design](assets/images/Pizza%20report%202.PNG)
 
 # Development
 
@@ -91,7 +88,7 @@ Here’s a step by step guide on how the data was approached
 5.	Generate Insights
 6.	Give recommendations 
 
-## Data Processing / Transformation
+## Data Cleaning / Processing 
 
 The goal is to refine the dataset to ensure its clean and ready for analysis.
 
@@ -99,8 +96,27 @@ The goal is to refine the dataset to ensure its clean and ready for analysis.
 - All data types should be appropriate for the contents of each column.
 - No column should contain null values, indicating complete data for all records
 
-## SQL 
-## Excel
+## SQL Cleaning
+![SQL Qery]()
+
+## Excel Processing 
+
+![Excel Process](images/001.PNG)
+
+![Excel Process](images/002.PNG)
+
+![Excel Process](images/003.PNG)
+
+![Excel Process](images/004.PNG)
+
+![Excel Process](images/005.PNG)
+
+![Excel Process](images/006.PNG)
+
+![Excel Process](images/007.PNG)
+
+![Excel Process](images/008.PNG)
+
 
 ## Findings
 
