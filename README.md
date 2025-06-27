@@ -1,4 +1,4 @@
-# SQL, Excel
+# Financial Loan Analysis
 
 
 ![Dasboard design](images/financialloanGIF.gif)
